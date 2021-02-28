@@ -21,5 +21,3 @@ Using advanced methods of analysis using Python and R to delve deeper into data 
 5. Exercise_7.3.pdf - Optimum Hotel Recommendations
 6. Assignment_9.4.pdf - Calculate Probability of a Model Ensemble
 7. DSC630 Assignment 11.3 Case Study.pdf - How Persuasion Modeling Helps Political Candidates Win Elections
-
-### Notes

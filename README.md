@@ -14,6 +14,6 @@ Using advanced methods of analysis using Python and R to delve deeper into data 
 
 ### Files
 
-9.4 - Calculate Probability of a Model Ensemble
+Assignment_9.4 - Calculate Probability of a Model Ensemble
 
 ### Notes
